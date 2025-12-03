@@ -4,8 +4,10 @@
 
 pip install pillow
 
-# you have been installed these modules before the execution
+ 
+#you have been installed these modules before the execution
 
-pip install tkinkter
+pip install tkinterdnd2
 pip install os
+
 
